@@ -1,0 +1,82 @@
+# German Made Easy (GME) - Obsidian 德语学习助手
+
+[![Plugin Version](https://img.shields.io/github/v/release/papple/obsidian-germany-made-easy?label=Version&color=blue)](https://github.com/papple/obsidian-germany-made-easy/releases)
+[![Obsidian Version](https://img.shields.io/badge/Obsidian-v1.0.0%2B-purple)](https://obsidian.md)
+
+**German Made Easy (GME)** 是一款专为德语爱好者打造的沉浸式 Obsidian 学习插件。它将划词查询、间隔重复（FSRS）闪卡复习和视频跟读完美结合，帮助你通过一站式学习打卡构建丝滑的学习体验和德语语料库，并以最高效的方式掌握它们。
+
+---
+
+## ✨ 核心特性
+
+### 1. 🔍 沉浸式单词助手 (Dictionary Assistant)
+*   **快捷查词**：支持 `Ctrl/Cmd + 双击` 或 `拖拽选中` 立即在侧边栏弹出释义。
+*   **上下文精准抓取**：查词时自动抓取包含该单词的完整句子作为例句，告别碎片化记忆。
+*   **离线字典支持**：内置有道/Google/Bing 在线服务，并支持加载本地 **MDX/MDD** 专业词典。
+*   **数据持久化**：一键加入生词本，数据同步保存至 IndexedDB 及本地 `生词本.md` 文件。
+
+### 2. 🎨 高亮笔记卡片 (Highlight Note Cards)
+*   **侧边栏管理**：汇总当前文档或所有库文件中的 `<mark>` 高亮内容，支持**点击卡片瞬间跳转**至原文。
+*   **多维筛选**：
+    *   **颜色过滤**：支持按黄色、粉色、蓝色、绿色四种高亮颜色快速分类。
+    *   **关键词检索**：在顶部搜索框实时过滤笔记内容。
+*   **AI 深度赋能**：
+    *   **AI 翻译 (Languages)**：一键获取高亮句子的精准翻译。
+    *   **AI 研究 (Microscope)**：**三层哲学深度解析**（本质提炼、概念透视、实践路径），提供富有哲思的背景拓展。
+*   **灵活交互**：
+    *   **快速编辑**：点击铅笔图标即可直接在卡片上修改笔记，支持自动调整高度。
+    *   **标签系统**：支持为卡片添加自定义标签，内置智能推荐算法。
+    *   **卡片集导航**：一键切换至全屏“卡片工作室”模式，集中管理所有灵感。
+
+### 3. 🧠 FSRS 闪卡复习系统 (Flashcard System)
+*   **科学算法**：集成最先进的 **FSRS (Free Spaced Repetition Scheduler)** 调度算法。
+*   **视觉惊艳**：极致的**毛玻璃 (Glassmorphism)** UI 设计，支持 3D 卡片翻转交互。
+*   **学习看板**：内置学习热力图与统计仪表盘，成长进步清晰可见。
+
+### 4. 🎬 视频跟读工坊 (Shadowing Workshop)
+*   **多模式学习**：支持在 **跟读模式 (Shadowing)** 和 **听写模式 (Dictation)** 间一键切换。
+*   **精准播放控制**：内置专门设计的控制条：
+    *   **倍速调节**：**0.8x / 1.0x / 1.25x** 灵活切换。
+    *   **快速定位**：**-5s / -10s** 快速回跳，反复打磨发音。
+*   **全格式兼容**：完美支持 YouTube 及本地视频，字幕实时同步并随播放置顶滚动。
+
+---
+
+## 🚀 快速上手
+
+### 安装方式
+1. **手动安装（推荐）：**
+    *   获取本插件最新版的 `main.js`, `manifest.json`, `styles.css` 三个主文件。
+    *   将其放入你的库文件夹：`.obsidian/plugins/obsidian-germany-made-easy/`。
+    *   在设置的第三方插件中启用插件。
+2. **社区插件（暂未上架）：** 在 Obsidian 设置中的“社区插件”市场搜索 `Germany Made Easy` 并安装。
+
+### 基础配置
+1.  **词典设置**：在设置页面选择你偏好的词典源（推荐使用有道或配置本地 MDX）。
+2.  **生词本路径**：指定一个文件夹存放自动生成的 `生词本.md`。
+
+---
+
+## 🛠 开发与构建
+
+欢迎开发者参与改进本项目！
+
+*   **环境要求**：NodeJS (v16+)
+*   **安装依赖**：`npm install`
+*   **开发模式**：`npm run dev`
+*   **构建生产版本**：`npm run build`
+
+---
+
+## ❤️ 支持与反馈
+
+如果你喜欢这个插件，可以通过以下方式支持：
+
+*   **关注公众号**：潘多拉的数字花园
+*   **多平台支持**：支持同名微博、小红书、知识星球
+*   **联系与反馈**：欢迎加 VX: **PandoraReads**
+
+---
+
+*“让德语学习像呼吸一样自然。” — German Made Easy*
+

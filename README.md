@@ -54,6 +54,13 @@
 
 ---
 
+### ⚠️ Activation Notice
+This plugin requires an **invitation code** to activate full functionality. To request a beta invitation code, please contact the author to register your email:
+*   **WeChat Official Account**: 潘多拉的数字花园
+*   **WeChat ID**: PandoraReads
+
+---
+
 ## 🌐 Language Support
 
 German Made Easy now supports multiple interface languages:

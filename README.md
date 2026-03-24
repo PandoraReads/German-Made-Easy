@@ -1,6 +1,6 @@
 # German Made Easy (GME) - Obsidian German Learning Assistant
 
-**German Made Easy (GME)** is an immersive Obsidian learning plugin designed specifically for German language learners. It combines instant word lookup, spaced repetition (FSRS) flashcard review, and video shadowing practice to help you build a seamless learning experience and German corpus through one-stop learning, mastering the language in the most efficient way possible.
+**German Made Easy (GME)** is an immersive Obsidian learning plugin designed specifically for German language learners. It combines instant word lookup, spaced repetition (FSRS) flashcard review, and video shadowing practice to help you build a seamless learning experience and German corpus through one-stop learning, mastering the language in the most efficient way possible.（[中文简介](README_ZH.md)）
 
 ### More Language Learnng Plugins
 - 🇬🇧 [English](https://github.com/PandoraReads/obsidian-English-Made-Easy.git)

@@ -1,8 +1,5 @@
 # German Made Easy (GME) - Obsidian 德语学习助手
 
-[![Plugin Version](https://img.shields.io/github/v/release/papple/obsidian-germany-made-easy?label=Version&color=blue)](https://github.com/papple/obsidian-germany-made-easy/releases)
-[![Obsidian Version](https://img.shields.io/badge/Obsidian-v1.0.0%2B-purple)](https://obsidian.md)
-
 **German Made Easy (GME)** 是一款专为德语爱好者打造的沉浸式 Obsidian 学习插件。它将划词查询、间隔重复（FSRS）闪卡复习和视频跟读完美结合，帮助你通过一站式学习打卡构建丝滑的学习体验和德语语料库，并以最高效的方式掌握它们。
 
 ---
@@ -54,6 +51,13 @@
 ### 基础配置
 1.  **词典设置**：在设置页面选择你偏好的词典源（推荐使用有道或配置本地 MDX）。
 2.  **生词本路径**：指定一个文件夹存放自动生成的 `生词本.md`。
+
+---
+
+### ⚠️ 激活说明
+本插件需要**邀请码**才能激活完整功能。如需获取**内测邀请码**，请通过以下方式联系作者登记邮箱申请：
+*   **微信公众号**：潘多拉的数字花园
+*   **微信号**：PandoraReads
 
 ---
 
